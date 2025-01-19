@@ -1,5 +1,5 @@
 # Hello, I'm Benjamin Hodzic
-<a href="www.linkedin.com/in/benjamin-hodzic-329245261"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/benjamin-hodzic-329245261"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a dedicated cyber security student specializing in data protection, seeking a computer engineering internship to apply my strong work ethic, creative problem-solving skills, and collaborative mindset while gaining hands-on experience and contributing to impactful projects.
